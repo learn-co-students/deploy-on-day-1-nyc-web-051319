@@ -89,7 +89,7 @@ p { margin-bottom: 15px }
 }
 
 .clearfix:after {
-    content: "";
+    content: ".";
     display: block;
     clear: both;
     visibility: hidden;
